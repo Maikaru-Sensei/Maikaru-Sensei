@@ -8,6 +8,3 @@
 - Dart (Flutter)
 - Kotlin & Java
 - Go
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/michael-zauner-7621b31a2/)
